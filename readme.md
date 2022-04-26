@@ -7,6 +7,6 @@ Detailed description about project
 -Not to forget
 
 # Project created by:
-1. Ropal
+1. Alrop
 
 # Special thanks to:
