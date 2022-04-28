@@ -29,16 +29,16 @@ h1 {
     padding-left: 60px;
     padding-top: 60px;
 
-    color: white;
+    color: #559CAD;
 }
 
 h2 {
-    color: cyan;
+    color: #DDFC74;
     text-align: center;
 }
 h6 {
     margin: 0;
-    color: white;
+    color: #DDFC74;
     text-align: center;
 
 }
@@ -56,9 +56,19 @@ a {
     margin: 10;
     padding: 0;
     font-size: 20px;
-    
+    color: white;
+    box-sizing: border-box;
   }
 
 .first_paragraph {
     color: pink;
 }
+
+.contactIMG {
+    margin-top: 10px;
+    max-width: 10%;
+    height: auto;
+    position:absolute;
+    left: 10px;
+}
+/* Color options to save for later: #559CAD;  */
