@@ -39,14 +39,21 @@ body {
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .row {
-    display: flex;
-  }
+
+    padding: 0 4px;
+}
   
 .column {
-    flex: 33.33%;
-    padding: 5px;
-    max-height: 10%;
-  }
+    flex-direction: column;
+    flex: 50%;
+    padding: 0 4px;
+}
+  
+.column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 200px;
+}
 
 
 h1 {
