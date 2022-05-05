@@ -10,8 +10,8 @@ body {
 
 .main {
     margin-right: 20%;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 5%x;
+    padding-right: 5%;
 
 }
 
@@ -21,20 +21,20 @@ body {
     bottom: 0;
     right: 0;
     width: 20%;
-    padding: 5px;
+    padding: 2%;
     border-left: inset;
     background-color: #3E7079;
     text-align: center;
-    font-size: 40px;
+    font-size: 3vw;
     color: white;
 }
 
 .sidebar img{
-    margin-top: 10px;
+    margin-top: 7%;
     max-width: 10%;
     height: auto;
     position:absolute;
-    left: 10px;
+    left: 2%;
 }
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
@@ -57,8 +57,8 @@ body {
 
 
 h1 {
-    padding-left: 150px;
-    padding-top: 60px;
+    padding-left: 5vw;
+    padding-top: 2vw;
 
     color: #DDFC74;
 }
@@ -75,18 +75,18 @@ h6 {
 }
 
 p {
-    padding-left: 20px;
+    padding-left: 2%;
     color: white;
     font-family: times;
-    font-size: 20px;
+    font-size: 1vw;
     text-align: center;
 
 }
 
 a {
-    margin: 10;
+    margin: 1%;
     padding: 0;
-    font-size: 20px;
+    font-size: 1.3vw;
     color: white;
     box-sizing: border-box;
   }
